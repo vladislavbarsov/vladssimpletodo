@@ -1,0 +1,27 @@
+body {
+  font-family: 'Chilanka', cursive !important;
+}
+.container {
+  width: 500px !important;
+}
+
+h1 {
+  margin-top: 70px !important;
+}
+
+.inputField {
+  margin-top: 10px !important;
+  margin-bottom: 0rem !important;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.noteBox {
+  padding: 6px 12px 6px 12px;
+  width: 470px;
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 0px !important;
+}
